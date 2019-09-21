@@ -1,3 +1,5 @@
 select * from histomvts where sicovam in (2334444,223334,223343) and dateneg ='22/08/1986';
 
 update histomvts set trade_ref ="MO";
+
+this line is added by sonali
