@@ -9,5 +9,11 @@ class HelloWorld
         System.out.println("Hello World,"); 
        System.out.println("Hello World NT,");
       System.out.println("Hello World By Imrankhan,");
-    } 
-} 
+   
+
+//updated by user 43957496
+
+system.out.prinntln("Hello this is firt=st java program to push it on repository")
+   
+   }
+}
