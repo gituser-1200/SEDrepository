@@ -13,7 +13,6 @@ class HelloWorld
 
 //updated by user 43957496
 
-system.out.prinntln("Hello this is firt=st java program to push it on repository")
-   
+  
    }
 }
